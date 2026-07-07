@@ -1,4 +1,6 @@
 AdventureWorks GraphQL API con C# y .NET 10
+
+
 API GraphQL desarrollada en C# con .NET 10 usando Hot Chocolate, Entity Framework Core y la base de datos AdventureWorks. Este proyecto fue realizado como parte de la actividad de formación ADSO del SENA.
 
 Tecnologías usadas
