@@ -1,5 +1,5 @@
-AdventureGraphQL
-API GraphQL desarrollada en C# con .NET 10 usando Hot Chocolate, Entity Framework Core y la base de datos AdventureWorks. El proyecto fue realizado como parte de la actividad de formación ADSO del SENA.
+AdventureWorks GraphQL API con C# y .NET 10
+API GraphQL desarrollada en C# con .NET 10 usando Hot Chocolate, Entity Framework Core y la base de datos AdventureWorks. Este proyecto fue realizado como parte de la actividad de formación ADSO del SENA.
 
 Tecnologías usadas
 C# 13.
@@ -53,8 +53,8 @@ Abrir /graphql para usar Nitro o Banana Cake Pop.
 Pruebas realizadas
 Se verificó el funcionamiento mediante:
 
-Query de catálogo productCatalog.
+Query productCatalog.
 
 Mutation updatePrice.
 
-Subscription onPriceChanged
+Subscription onPriceChanged.
